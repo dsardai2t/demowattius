@@ -42,3 +42,8 @@
 	path = OCA/queue
 	url = git@github.com:OCA/queue.git
 	branch = 15.0
+
+[submodule "OCA/web"]
+	path = OCA/web
+	url = git@github.com:OCA/web.git
+	branch = 15.0
